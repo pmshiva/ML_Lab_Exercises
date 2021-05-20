@@ -23,3 +23,22 @@ Part - 2
 7. Calculating descriptive statistics
 8. Practicing EDA
 9. Activity: Finding out highly rated strategy games
+
+Part - 3
+
+Write Python scripts to perform unsupervised clustering techniues
+i.	K-means
+ii.	E-M clustering
+
+Part - 4 
+Write Python scripts to develop following Machine learning tasks on any chosen dataset
+i.	Linear Regression
+ii.	Logistic Regression
+iii.	Bayesian Classifiers
+iv.	Adaboost classifiers
+v.	decision tree classifier
+
+Part - 5
+Write Python script to develop following Neural Networj models for classfication on any chosen dataset 
+i.	Simple Multilayer perceptron
+ii.	Deep Neural Networks (CNN/RNN)
